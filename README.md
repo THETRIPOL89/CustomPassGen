@@ -32,7 +32,7 @@ No need to install the application.
 ## Built With
 
   - <img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
-  - <img align="left" alt="XAML" width="26px" src="https://icon-library.com/images/xaml-icon/xaml-icon-3.jpg"/>
+  - <img align="left" alt="XAML" width="26px" src="https://cdn0.iconfinder.com/data/icons/file-extension-line-icon/100/xamlb2-512.png"/>
 
 ## Version
 
