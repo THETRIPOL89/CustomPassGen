@@ -29,6 +29,16 @@ Windwos requirements:
 
 No need to install the application.
 
+## Usage
+
+For users:<br>
+ - Download the source code of the Release
+ - Run CustomPasswordGenerator.exe to execute the program
+
+For developers:<br>
+ - Download the dev folder
+ - Open the project with Blend for Visual Studio 2022
+
 ## Built With
 
   - <img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
@@ -36,7 +46,7 @@ No need to install the application.
 
 ## Version
 
-Developers Version : 1.050823
+Developers Version : 1.050823 <br>
 Release Version : 1.050823
 
 ## Authors
