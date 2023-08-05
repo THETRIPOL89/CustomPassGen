@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HgrNz7yyn6iKv0WKrRQcoBAWRDarh7l5LbGt89WCDwoOZgVawHF1YX+WVaN+n0jMGYsV+FpUPGmLaiixMk08AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenzi\\source\\repos\\CustomPasswordGenerator\\CustomPasswordGenerator\\CustomPasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenzi\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.28\\microsoft.windows.sdk.net.ref.10.0.22000.28.nupkg.sha512"
+  ],
+  "logs": []
+}
