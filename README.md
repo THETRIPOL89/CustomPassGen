@@ -31,11 +31,11 @@ No need to install the application.
 
 ## Usage
 
-For users:<br>
+For **users**:<br>
  - Download the source code of the Release
  - Run CustomPasswordGenerator.exe to execute the program
 
-For developers:<br>
+For **developers**:<br>
  - Download the dev folder
  - Open the project with Blend for Visual Studio 2022
 
